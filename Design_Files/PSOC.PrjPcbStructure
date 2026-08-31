@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=back up.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=back up.SchDoc|FileName=Block_Diagram.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=back up.SchDoc|FileName=PSOC_ControllerSchDoc.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=back up.SchDoc|FileName=PSOC_I2C_BUS.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=back up.SchDoc|FileName=PSOC_PERI.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=back up.SchDoc|FileName=PSOC_PERI_2.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=back up.SchDoc|FileName=PSOC_SPI_BUS.SchDoc|SheetNumber=5
